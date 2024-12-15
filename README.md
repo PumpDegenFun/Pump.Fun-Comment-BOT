@@ -6,7 +6,7 @@ Pump.fun Comment Bot
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/PumpDegenFun/Pump.Fun-Comment-BOT)
+   git clone https://github.com/PumpDegenFun/Pump.Fun-Comment-BOT
    cd Pump.Fun-Comment-BOT
    ```
 
